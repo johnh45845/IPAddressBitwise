@@ -1,6 +1,5 @@
 # Network IP Addresses and Bitwise Operators
 COMP 211 Checkoff 3
-PID: 730867504
 
 ## Topic
 In networking, an IP address is contains both the network information and the host information of the target device. The network names the network the device is apart of. The host names one specific device on a network. Because both elements are found in the IP address, routers across the internet must use a standardized proceedur for separating the two to direct packets in the right direction. Hence, a subnet mask is a necessity.
